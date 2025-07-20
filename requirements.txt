@@ -1,0 +1,11 @@
+openai
+requests
+yfinance
+newsapi-python
+matplotlib
+python-docx
+pandas
+numpy
+scikit-learn
+beautifulsoup4
+lxml 

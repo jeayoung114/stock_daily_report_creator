@@ -1,0 +1,94 @@
+{
+  "stock_name": "AAPl",
+  "prices": [
+    {
+      "date": "2025-07-14",
+      "close": 208.6199951171875
+    },
+    {
+      "date": "2025-07-15",
+      "close": 209.11000061035156
+    },
+    {
+      "date": "2025-07-16",
+      "close": 210.16000366210938
+    },
+    {
+      "date": "2025-07-17",
+      "close": 210.02000427246094
+    },
+    {
+      "date": "2025-07-18",
+      "close": 211.17999267578125
+    }
+  ],
+  "news": [
+    {
+      "title": "Purpose Investments Inc. Announces July 2025 Distributions",
+      "summary": "TORONTO, July 18, 2025 (GLOBE NEWSWIRE) — Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of July 2025 for its open-end exchange traded funds and closed-end funds (“the Funds”). The ex-distribution date for all Open-End…",
+      "date": "2025-07-18",
+      "url": "https://financialpost.com/globe-newswire/purpose-investments-inc-announces-july-2025-distributions"
+    },
+    {
+      "title": "Purpose Investments Inc. Announces July 2025 Distributions",
+      "summary": "TORONTO, July 18, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of July 2025 for its open-end exchange traded funds and closed-end funds (“the Funds”).",
+      "date": "2025-07-18",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3118229/0/en/Purpose-Investments-Inc-Announces-July-2025-Distributions.html"
+    },
+    {
+      "title": "US stock market today: Wall Street pauses near record highs as earnings, inflation expectations take center stage",
+      "summary": "US stock market ends mixed as S&P 500 record high headlines the stock market today as it touched a new peak before pulling back slightly on Friday. Despite the dip, the S&P 500, Nasdaq, and Dow Jones are all headed for a winning week, backed by strong corpora…",
+      "date": "2025-07-18",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-wall-street-pauses-near-record-highs-sp-500-nasdaq-dip-netflix-plunges-american-express-falters-as-inflation-outlook-cools/articleshow/122768384.cms"
+    },
+    {
+      "title": "Comparing Apple With Industry Competitors In Technology Hardware, Storage & Peripherals Industry",
+      "summary": "In the fast-paced and cutthroat world of business, conducting thorough company analysis is essential for investors and industry experts. In this article, we will undertake a comprehensive industry comparison, evaluating Apple AAPL in comparison to its major c…",
+      "date": "2025-07-18",
+      "url": "https://biztoc.com/x/6bb4ceb06890f2af"
+    },
+    {
+      "title": "Could the Pentagon’s $550 Million Bet on Rare Earths Signal the Next Market Boom?",
+      "summary": "A deep dive into why the U.S. government is backing rare earth mining; plus, the tiny companies flying under the radar.",
+      "date": "2025-07-18",
+      "url": "https://www.barchart.com/story/news/33494903/could-the-pentagons-550-million-bet-on-rare-earths-signal-the-next-market-boom"
+    }
+  ],
+  "comments": [
+    {
+      "user": "Financial Post",
+      "text": "Purpose Investments Inc. Announces July 2025 Distributions",
+      "sentiment": "unknown"
+    },
+    {
+      "user": "GlobeNewswire",
+      "text": "Purpose Investments Inc. Announces July 2025 Distributions",
+      "sentiment": "unknown"
+    },
+    {
+      "user": "The Times of India",
+      "text": "US stock market today: Wall Street pauses near record highs as earnings, inflation expectations take center stage",
+      "sentiment": "unknown"
+    },
+    {
+      "user": "Biztoc.com",
+      "text": "Comparing Apple With Industry Competitors In Technology Hardware, Storage & Peripherals Industry",
+      "sentiment": "unknown"
+    },
+    {
+      "user": "Barchart.com",
+      "text": "Could the Pentagon’s $550 Million Bet on Rare Earths Signal the Next Market Boom?",
+      "sentiment": "unknown"
+    }
+  ],
+  "financials": {
+    "PER": 32.89408,
+    "PBR": 47.233276,
+    "EPS": 6.42,
+    "market_cap": 3154142035968
+  },
+  "indices": {
+    "S&P500": 6296.7900390625,
+    "NASDAQ": 20895.650390625
+  }
+}
